@@ -4,6 +4,7 @@ conflict 해결방법
 
 git 명령어
 log --oneline
+log --oneline --graph
 
 linux 명령어
 
